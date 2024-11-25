@@ -1,0 +1,51 @@
+body{
+    background: #a9a5d0;
+    font-family: Garamond;
+    
+}
+
+h1{
+    color: #ffffff;
+    font-size: 2.75rem;
+    text-shadow: 2px 2px black;
+}
+
+p{
+    color: rgb(16, 144, 101);
+}
+
+#mainducklingdecorhome{
+    font-size: 2.75rem;
+    color: #ffffff;
+    font-size: 2.75rem;
+    text-shadow: 2px 2px black;
+}
+
+.maintopnav {
+    overflow: hidden;
+    background-color: #7873a3;
+}
+
+.maintopnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+
+.maintopnav button {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    background-color: #8f8f8f;
+}
+
+.maintopnav button:hover {
+    background-color: #8f8f8f;
+    color: white;
+}
